@@ -8,6 +8,6 @@ public class AccountsController {
 
     @GetMapping("sayHello")
     public String sayHello(){
-        return "Hi Md Khayrul Hasan! Congrats you are hired!";
+        return "Hi Md Khayrul Hasan! Welcome to java";
     }
 }
